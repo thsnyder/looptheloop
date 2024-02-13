@@ -1,61 +1,71 @@
 [
   {
-    "username": "user1",
+    "username": "Janna J.",
     "created_time": "2022-01-01T12:00:00Z",
+    "profit_image": "https://cdn.pixabay.com/photo/2016/06/15/23/20/woman-1460150_960_720.jpg",
     "star_rating": 5,
     "open_text": "Absolutely love it! Highly recommended."
   },
   {
-    "username": "user2",
+    "username": "Emily R.",
     "created_time": "2022-01-02T13:15:00Z",
+    "profit_image": "https://cdn.pixabay.com/photo/2022/08/06/11/00/black-woman-7368399_960_720.jpg",
     "star_rating": 4,
     "open_text": "Great product, but could improve in delivery speed."
   },
   {
-    "username": "user3",
+    "username": "Jake S.",
     "created_time": "2022-01-03T14:30:00Z",
+    "profit_image": "https://cdn.pixabay.com/photo/2022/08/06/10/57/black-man-7368384_960_720.jpg",
     "star_rating": 3,
     "open_text": "Average experience, nothing exceptional."
   },
   {
-    "username": "user4",
+    "username": "Brian K.",
     "created_time": "2022-01-04T15:45:00Z",
-    "star_rating": 3,
+    "profit_image": "https://cdn.pixabay.com/photo/2023/10/05/22/05/brian-kinsella-8297038_960_720.jpg",
+   "star_rating": 3,
     "open_text": "Below expectations in terms of quality, but works fine."
   },
   {
-    "username": "user5",
+    "username": "Jeff A.",
     "created_time": "2022-01-05T16:00:00Z",
+    "profit_image": "https://cdn.pixabay.com/photo/2022/09/12/17/39/man-7450033_960_720.jpg",
     "star_rating": 4,
     "open_text": "It's great."
   },
   {
-    "username": "user6",
+    "username": "Bri F.",
     "created_time": "2022-01-06T17:15:00Z",
+    "profit_image": "https://cdn.pixabay.com/photo/2022/08/06/11/03/black-woman-7368418_960_720.jpg",
     "star_rating": 5,
     "open_text": "Exceptional service and product quality!"
   },
   {
-    "username": "user7",
+    "username": "Avinash V.",
     "created_time": "2022-01-07T18:30:00Z",
+    "profit_image": "https://cdn.pixabay.com/photo/2019/02/13/18/46/model-3994985_960_720.jpg
     "star_rating": 4,
     "open_text": "Very good, but there's room for improvement."
   },
   {
-    "username": "user8",
+    "username": "Brittany B.",
     "created_time": "2022-01-08T19:45:00Z",
+    "profit_image": https://cdn.pixabay.com/photo/2022/07/22/15/44/woman-7338402_960_720.jpg
     "star_rating": 3,
     "open_text": "It's okay, met my expectations."
   },
   {
-    "username": "user9",
+    "username": "Alex S.",
     "created_time": "2022-01-09T20:00:00Z",
+    "profit_image": "https://cdn.pixabay.com/photo/2022/09/12/17/40/woman-7450036_960_720.jpg",
     "star_rating": 4,
     "open_text": "Nice, but could be better, facing some issues."
   },
   {
-    "username": "user10",
+    "username": "Jorge G.",
     "created_time": "2022-01-10T21:15:00Z",
+    "profit_image": "https://cdn.pixabay.com/photo/2022/08/05/20/07/man-7367511_960_720.jpg",
     "star_rating": 5,
     "open_text": "Just what I needed."
   }
