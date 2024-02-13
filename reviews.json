@@ -1,0 +1,62 @@
+[
+  {
+    "username": "user1",
+    "created_time": "2022-01-01T12:00:00Z",
+    "star_rating": 5,
+    "open_text": "Absolutely love it! Highly recommended."
+  },
+  {
+    "username": "user2",
+    "created_time": "2022-01-02T13:15:00Z",
+    "star_rating": 4,
+    "open_text": "Great product, but could improve in delivery speed."
+  },
+  {
+    "username": "user3",
+    "created_time": "2022-01-03T14:30:00Z",
+    "star_rating": 3,
+    "open_text": "Average experience, nothing exceptional."
+  },
+  {
+    "username": "user4",
+    "created_time": "2022-01-04T15:45:00Z",
+    "star_rating": 2,
+    "open_text": "Below expectations in terms of quality."
+  },
+  {
+    "username": "user5",
+    "created_time": "2022-01-05T16:00:00Z",
+    "star_rating": 1,
+    "open_text": "Not satisfied, would not buy again."
+  },
+  {
+    "username": "user6",
+    "created_time": "2022-01-06T17:15:00Z",
+    "star_rating": 5,
+    "open_text": "Exceptional service and product quality!"
+  },
+  {
+    "username": "user7",
+    "created_time": "2022-01-07T18:30:00Z",
+    "star_rating": 4,
+    "open_text": "Very good, but there's room for improvement."
+  },
+  {
+    "username": "user8",
+    "created_time": "2022-01-08T19:45:00Z",
+    "star_rating": 3,
+    "open_text": "It's okay, met my expectations."
+  },
+  {
+    "username": "user9",
+    "created_time": "2022-01-09T20:00:00Z",
+    "star_rating": 2,
+    "open_text": "Could have been better, facing some issues."
+  },
+  {
+    "username": "user10",
+    "created_time": "2022-01-10T21:15:00Z",
+    "star_rating": 1,
+    "open_text": "Disappointed with the purchase, not recommended."
+  }
+]
